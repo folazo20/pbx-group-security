@@ -1,5 +1,6 @@
 ---
-draft           : false
+hide            : true
+draft           : true
 title           : Security Operations Assistant
 layout          : role-upwork
 date            : 2018-10-03
