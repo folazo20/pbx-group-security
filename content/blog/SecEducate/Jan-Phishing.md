@@ -42,7 +42,7 @@ Since then Phishing has grown to alarming losses from scammers:
 ## Phishing at work
 In work environments, hackers will access information that is vital to the IT infrastructure of the business. As a consequence, further attacks can be launched. These attacks target the organization’s workstations, wireless devices, and servers. On top of the monetary loss that is incurred, the damage can tarnish the reputation of the business which can lead to possible job losses.
 
-Insert image phishing infographic
+! [infographic](/images/Photoboxgroup_PhishingScam_infographics_v5_NoContact.png)
 
 ## Phishing future trends
 At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, Head of Information Security at the Royal Bank of Scotland, gave some insight into Phishing trends: 
