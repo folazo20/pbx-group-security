@@ -86,7 +86,7 @@ Source: https://www.csoonline.com/article/2117843/phishing/what-is-phishing-how-
 
 ## Check out our video
 
-[![](https://www.youtube.com/watch?v=rmUcaFx0WCY)
+[![](http://img.youtube.com/vi/rmUcaFx0WCY/0.jpg)](http://www.youtube.com/watch?v=rmUcaFx0WCY "How to spot a phishing email")
 
 ## Test yourself
 
