@@ -21,7 +21,7 @@
     </table>
     <hr>
     <h2>Taxonomies</h2>
-    {{ range $taxo, $value := .Site.Taxonomies }}
+    {{/* range $taxo, $value := .Site.Taxonomies }}
         <h3>{{ $taxo }} ({{ len $value }})</h3>
         {{ with $value }}
             <table class="table">
@@ -33,7 +33,7 @@
                     </tr>
                 </thead>
                 <tbody>
-            
+
                 {{ range $key, $value := . }}
                 {{ $term := $.Site.GetPage "taxonomy" $taxo $key }}
                 <tr>
@@ -47,5 +47,5 @@
                 </tbody>
             </table>
         {{ end }}
-    {{ end }}
+    {{ end */}}
 {{ end }}
