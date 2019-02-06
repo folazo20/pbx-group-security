@@ -1,15 +1,9 @@
 ---
 
 title   : 25 years of phishing
-
 banner  : /img/blog/phishing_blog.png
-
 date    : 2019-02-05
-
 images  : ["Photoboxgroup_PhishingScam_infographics_v5_NoContact.png"]
-
-status  : draft
-
 author   : Fernanda Almeida
 ---
 
@@ -42,7 +36,7 @@ Since then Phishing has grown to alarming losses from scammers:
 ## Phishing at work
 In work environments, hackers will access information that is vital to the IT infrastructure of the business. As a consequence, further attacks can be launched. These attacks target the organization’s workstations, wireless devices, and servers. On top of the monetary loss that is incurred, the damage can tarnish the reputation of the business which can lead to possible job losses.
 
-! [infographic](/images/Photoboxgroup_PhishingScam_infographics_v5_NoContact.png)
+![infographic](/images/Photoboxgroup_PhishingScam_infographics_v5_NoContact.png)
 
 ## Phishing future trends
 At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, Head of Information Security at the Royal Bank of Scotland, gave some insight into Phishing trends: 
@@ -52,7 +46,7 @@ At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, H
 The newest development to watch out for is ransomware and, according to Marjoribanks
 >...it’s going to get slicker and we will see ransomware delivered by ‘SMiShing’ in the very near future. 
 
-Source: https://www.infosecurity-magazine.com/news/teiss18-phishing-trends-future/
+[Source](https://www.infosecurity-magazine.com/news/teiss18-phishing-trends-future/)
 
 ## Knowledge
 Increased knowledge is a vital component in protecting yourself and others from online scams in your private and working lives. 
