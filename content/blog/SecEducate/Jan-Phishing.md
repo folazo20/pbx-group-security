@@ -9,7 +9,7 @@ author   : Fernanda Almeida
 
 ## 25 years of Phishing, don’t take the bait
 
-Phishing is a malicious attack technique used to steal information from you. It is a fraudulent activity to trick you into revealing your personal and confidential information. 
+Phishing is a malicious attack technique used to steal information from you. It is a fraudulent activity to trick you into revealing your personal and confidential information.
 
 This attack technique can range from stealing your bank account details to identity theft and can have devastating consequences financially and personally.
 
@@ -17,13 +17,13 @@ Banking on fear, curiosity, and anxiety concerning money, private life, and work
 
 ## A bit of history
 
-Phishing will mark its 25th anniversary next year - 25 years later and it’s still doing damage all over the globe. 
+Phishing will mark its 25th anniversary next year - 25 years later and it’s still doing damage all over the globe.
 
 The practice started on AOL back in 1995, when hackers created a tool for generating credit card numbers which they then used to create fake AOL accounts. After that, they spammed other AOL members with phishing techniques to trick users into revealing passwords, social security numbers, and even credit card numbers.
 
 ## Tactics can change
 Tactics have changed from an AOL account to pulling on your heartstrings: “Love Bug” started in May 2000 in the Philippines, and soon mailboxes around the world were receiving a message with the title  “ILOVEYOU.” The message body read simply: “Kindly check the attached LOVELETTER coming from me.” Around 45 million Windows PCs were hit worldwide. The hackers played with people’s emotions, and it worked.
- 
+
 Since then Phishing has grown to alarming losses from scammers:
 
 * Ubiquiti Networks: Total loss of $46.7 Million
@@ -36,20 +36,20 @@ Since then Phishing has grown to alarming losses from scammers:
 ## Phishing at work
 In work environments, hackers will access information that is vital to the IT infrastructure of the business. As a consequence, further attacks can be launched. These attacks target the organization’s workstations, wireless devices, and servers. On top of the monetary loss that is incurred, the damage can tarnish the reputation of the business which can lead to possible job losses.
 
-![infographic](/images/Photoboxgroup_PhishingScam_infographics_v5_NoContact.png)
+![infographic](/img/blog/Photoboxgroup_PhishingScam_infographics_v5_NoContact.png)
 
 ## Phishing future trends
-At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, Head of Information Security at the Royal Bank of Scotland, gave some insight into Phishing trends: 
+At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, Head of Information Security at the Royal Bank of Scotland, gave some insight into Phishing trends:
 > What we will see going into 2018 is attackers really going after the end-user to have the most impact, so you’re talking about
-> hospitals, air traffic control.... 
+> hospitals, air traffic control....
 
 The newest development to watch out for is ransomware and, according to Marjoribanks
->...it’s going to get slicker and we will see ransomware delivered by ‘SMiShing’ in the very near future. 
+>...it’s going to get slicker and we will see ransomware delivered by ‘SMiShing’ in the very near future.
 
 [Source](https://www.infosecurity-magazine.com/news/teiss18-phishing-trends-future/)
 
 ## Knowledge
-Increased knowledge is a vital component in protecting yourself and others from online scams in your private and working lives. 
+Increased knowledge is a vital component in protecting yourself and others from online scams in your private and working lives.
 
 ### 10 Ways to Avoid Phishing Scams
 
@@ -66,7 +66,7 @@ Emails are still the most common form of Phishing scam, which is why 8 of the 10
 5. Be suspicious of badly written emails
   Badly written emails which include spelling mistakes or grammatical errors are a sign that an email is not legitimate
 6. Be suspicious of emails that are solely images
-  Emails that are solely images where there should be text are highly suspicious. Avoid clicking anywhere on the image as there could be a hidden link behind the email 
+  Emails that are solely images where there should be text are highly suspicious. Avoid clicking anywhere on the image as there could be a hidden link behind the email
 7. Check links before you click them
   Before you click a link in an email, hold your mouse over the link and check it looks right, the link details will either pop up over   the link text or at the bottom of your browser
 8. Don’t open unexpected attachments
@@ -75,7 +75,7 @@ Emails are still the most common form of Phishing scam, which is why 8 of the 10
   Antivirus software guards against known technology workarounds and loopholes and new definitions are added all the time to keep up with new scams
 10. Be wary of how you close down pop-ups
   Pop-up windows often masquerade as components of legitimate websites. Never click the “cancel” button, as these can sometimes lead to phishing sites. Instead, click the small “x” in the upper corner of the pop-up.
-  
+
 Source: https://www.csoonline.com/article/2117843/phishing/what-is-phishing-how-this-cyber-attack-works-and-how-to-prevent-it
 
 ## Check out our video
@@ -93,27 +93,3 @@ According to the [Verizon Data Breach Investigation Report](https://enterprise.v
 
 ## Keep yourself and others safe
 ### Don’t take the bait!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
