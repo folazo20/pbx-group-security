@@ -3,7 +3,7 @@
 title   : G Drive: How to Avoid Oversharing
 banner  : /images/blog/GDrive.png
 date    : 2019-02-28
-images  : ["Photoboxgroup_PhishingScam_infographics_v5_NoContact.png"]
+images  : [/images/blog/GDrive.png]
 author   : Sophie Gray-Bickle
 status  : draft
 ---
