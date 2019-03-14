@@ -7,10 +7,15 @@ images  : [/images/blog/GDrive.png]
 author   : Sophie Gray-Bickle
 status  : draft
 ---
-Needs: Image and video linked
+Needs: video linked
 
 
 # G Drive - how to avoid oversharing
+
+This blog discusses:
+-   The origins and main providers of cloud storage
+-   Tips for sharing files safely on G Drive
+-   Changing permissions in G Drive
 
 ## Cloud Storage and Sharing
 
