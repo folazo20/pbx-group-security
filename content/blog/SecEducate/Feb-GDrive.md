@@ -42,26 +42,28 @@ But, to [paraphrase](https://en.wikipedia.org/wiki/Uncle_Ben#%22With_great_power
 Choosing the wrong sharing option could allow anyone on the internet to find and access your files. G Drive offers a number of sharing options, and selecting the right one is crucial to keeping your information safe. Here is a summary of the options:
 
 
-‘Public on the Web’ means that anyone with internet access can find and access your file, even if they are not someone who is part of your network, works for your company, or someone that you ever wanted to share the file with.
+1. **‘Public on the Web’** means that anyone with internet access can find and access your file, even if they are not someone who is part of your network, works for your company, or someone that you ever wanted to share the file with.
 
-‘Anyone with the link’ means anyone who has the link can access your file. That can include people who aren’t part of your network or organisation. They just have to have been give the link.
+2. **‘Anyone with the link’** means anyone who has the link can access your file. That can include people who aren’t part of your network or organisation. They just have to have been give the link.
 
-Sharing your files with ‘Specific people’ by entering their email address(es) - Make sure you check what type of access you are giving them.
+3. Sharing your files with **‘Specific people’** by entering their email address(es) - Make sure you check what type of access you are giving them.
 
-Sharing your files with ‘Your Network/Company Name’ means the files are available to anyone within your organisation. If you share only within your network or organisation, remember that people can still find your file accidentally if they search for a keyword in your file. This means that if you are writing a draft document on strategy, budgets, or something else that you will share eventually (but don’t want to share just yet), you need to make sure that the file is not available to anyone 
+4. Sharing your files with **‘Your Network/Company Name’** means the files are available to anyone within your organisation. If you share only within your network or organisation, remember that people can still find your file accidentally if they search for a keyword in your file. This means that if you are writing a draft document on strategy, budgets, or something else that you will share eventually (but don’t want to share just yet), you need to make sure that the file is not available to anyone 
 
-The option ‘anyone at [company name] with the link’ is safer; just remember if this is currently selected, it means that people you share the link with can share it with others, without your knowledge.
+5. The option **‘anyone at [company name] with the link’** is safer; just remember if this is currently selected, it means that people you share the link with can share it with others, without your knowledge.
 
 ## Changing Permissions 
 
-If you want to check access for any of your existing files or folders, go to the ‘advanced’ window, where you can see who has access (and at what level), and you can make sure that people with edit rights can’t share, print, or copy your work using ‘Owner Settings’
+If you want to check access for any of your existing files or folders, go to the **‘advanced’** window, where you can see who has access (and at what level), and you can make sure that people with edit rights can’t share, print, or copy your work using **‘Owner Settings’**
 
 You can also check out more options that will help your file stay safe.
 
 It is possible to share your file with a distribution list (e.g. customer.services@company.com) and everyone on that list will be able to access the file with the permissions you’ve assigned. You can always change permissions later.
 
-Once you have shared a folder with a group, for example as read-only, it is possible to change permissions for individual documents by opening the document, clicking on the ‘Share’ button, the using ‘Who Has Access’ to change individual permissions.
+Once you have shared a folder with a group, for example as read-only, it is possible to change permissions for individual documents by opening the document, clicking on the **‘Share’** button, the using **‘Who Has Access’** to change individual permissions.
 
 ## Watch our video to learn more:
 
 [![](http://img.youtube.com/vi/-8sfWtn4q6M/0.jpg)](http://www.youtube.com/watch?v=-8sfWtn4q6M "How to avoid oversharing on G Drive")
+
+
