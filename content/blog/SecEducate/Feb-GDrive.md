@@ -2,12 +2,10 @@
 
 title   : G Drive: How to Avoid Oversharing
 banner  : /images/blog/GDrive.png
-date    : 2019-02-28
+date    : 2019-03-15
 images  : [/images/blog/GDrive.png]
 author   : Sophie Gray-Bickle
-status  : draft
 ---
-Needs: video linked
 
 
 # G Drive - how to avoid oversharing
@@ -41,7 +39,7 @@ Sharing files via G Drive is quick, easy, and convenient, allowing multiple peop
 
 But, to [paraphrase](https://en.wikipedia.org/wiki/Uncle_Ben#%22With_great_power_comes_great_responsibility%22), with this greater ease comes great responsibility: To make sure you are sharing safely and only with those you wish to see your files. 
 
-Choosing the wrong sharing option could allow anyone on the internet to find and access your files. G Drive offers a number of sharing options, and selecting the right one is crucial to keeping your information safe. Here is a brief summary of the options:
+Choosing the wrong sharing option could allow anyone on the internet to find and access your files. G Drive offers a number of sharing options, and selecting the right one is crucial to keeping your information safe. Here is a summary of the options:
 
 
 ‘Public on the Web’ means that anyone with internet access can find and access your file, even if they are not someone who is part of your network, works for your company, or someone that you ever wanted to share the file with.
@@ -64,4 +62,6 @@ It is possible to share your file with a distribution list (e.g. customer.servic
 
 Once you have shared a folder with a group, for example as read-only, it is possible to change permissions for individual documents by opening the document, clicking on the ‘Share’ button, the using ‘Who Has Access’ to change individual permissions.
 
-Watch the video to learn more:
+## Watch our video to learn more:
+
+[![](http://img.youtube.com/vi/-8sfWtn4q6M/0.jpg)](http://www.youtube.com/watch?v=-8sfWtn4q6M "How to avoid oversharing on G Drive")
