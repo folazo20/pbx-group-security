@@ -1,10 +1,10 @@
 ---
 
-title   : G Drive: How to Avoid Oversharing
+title   : G Drive - How to Avoid Oversharing
 banner  : /images/blog/GDrive.png
 date    : 2019-03-15
 images  : [/images/blog/GDrive.png]
-author   : Sophie Gray-Bickle
+author  : Sophie Gray-Bickle
 ---
 
 
@@ -31,13 +31,13 @@ Data stored in “the cloud” is hosted in data centres -  defined by the [OED]
 
 Cloud storage providers are responsible for keeping these physical data centres protected and running, while also allowing users easy, secure access to their data. By default, configuration for these providers ([Dropbox and G Drive](https://www.cloudwards.net/dropbox-vs-google-drive/)) makes it easy to store and share data. Because both are based in the U.S., where privacy laws are a bit looser than in [other countries](https://www.cloudwards.net/the-best-cloud-privacy-laws/), it is important to make sure you're utilising the right controls to do this in the most secure manner possible. Or you could [encrypt your files yourself](https://www.cloudwards.net/how-to-encrypt-your-data-for-cloud-storage/), or jump ship to one of their [zero-knowledge cloud storage competitors](https://www.cloudwards.net/best-zero-knowledge-cloud-services/).
 
-Last October, Google announced plans to [shut down Google+ for consumers](https://www.theverge.com/2018/10/8/17951890/google-plus-shut-down-security-api-change-gmail-android) after a security flaw [exposed users’ profile data](https://www.theverge.com/2019/1/30/18204212/google-deleting-consumer-data-april-2). 
+Last October, Google announced plans to [shut down Google+ for consumers](https://www.theverge.com/2018/10/8/17951890/google-plus-shut-down-security-api-change-gmail-android) after a security flaw [exposed users’ profile data](https://www.theverge.com/2019/1/30/18204212/google-deleting-consumer-data-april-2).
 
 ## G Drive Sharing Options
 
 Sharing files via G Drive is quick, easy, and convenient, allowing multiple people in multiple locations worldwide to work on the same documents or files. This ease and simplicity negates the risk of version conflict, and ensures only the latest version of a document or file is worked on.
 
-But, to [paraphrase](https://en.wikipedia.org/wiki/Uncle_Ben#%22With_great_power_comes_great_responsibility%22), with this greater ease comes great responsibility: To make sure you are sharing safely and only with those you wish to see your files. 
+But, to [paraphrase](https://en.wikipedia.org/wiki/Uncle_Ben#%22With_great_power_comes_great_responsibility%22), with this greater ease comes great responsibility: To make sure you are sharing safely and only with those you wish to see your files.
 
 Choosing the wrong sharing option could allow anyone on the internet to find and access your files. G Drive offers a number of sharing options, and selecting the right one is crucial to keeping your information safe. Here is a summary of the options:
 
@@ -48,11 +48,11 @@ Choosing the wrong sharing option could allow anyone on the internet to find and
 
 3. Sharing your files with **‘Specific people’** by entering their email address(es) - Make sure you check what type of access you are giving them.
 
-4. Sharing your files with **‘Your Network/Company Name’** means the files are available to anyone within your organisation. If you share only within your network or organisation, remember that people can still find your file accidentally if they search for a keyword in your file. This means that if you are writing a draft document on strategy, budgets, or something else that you will share eventually (but don’t want to share just yet), you need to make sure that the file is not available to anyone 
+4. Sharing your files with **‘Your Network/Company Name’** means the files are available to anyone within your organisation. If you share only within your network or organisation, remember that people can still find your file accidentally if they search for a keyword in your file. This means that if you are writing a draft document on strategy, budgets, or something else that you will share eventually (but don’t want to share just yet), you need to make sure that the file is not available to anyone
 
 5. The option **‘anyone at [company name] with the link’** is safer; just remember if this is currently selected, it means that people you share the link with can share it with others, without your knowledge.
 
-## Changing Permissions 
+## Changing Permissions
 
 If you want to check access for any of your existing files or folders, go to the **‘advanced’** window, where you can see who has access (and at what level), and you can make sure that people with edit rights can’t share, print, or copy your work using **‘Owner Settings’**
 
@@ -65,5 +65,3 @@ Once you have shared a folder with a group, for example as read-only, it is poss
 ## Watch our video to learn more:
 
 [![](http://img.youtube.com/vi/-8sfWtn4q6M/0.jpg)](http://www.youtube.com/watch?v=-8sfWtn4q6M "How to avoid oversharing on G Drive")
-
-
