@@ -46,7 +46,7 @@ At The European Information Security Summit (TEISS) 2018, Lesley Marjoribanks, H
 The newest development to watch out for is ransomware and, according to Marjoribanks
 >...it’s going to get slicker and we will see ransomware delivered by ‘SMiShing’ in the very near future.
 
-[Source](https://www.infosecurity-magazine.com/news/teiss18-phishing-trends-future/)
+Source: [Phishing Trends and the Future](https://www.infosecurity-magazine.com/news/teiss18-phishing-trends-future/)
 
 ## Knowledge
 Increased knowledge is a vital component in protecting yourself and others from online scams in your private and working lives.
@@ -76,7 +76,7 @@ Emails are still the most common form of Phishing scam, which is why 8 of the 10
 10. Be wary of how you close down pop-ups
   Pop-up windows often masquerade as components of legitimate websites. Never click the “cancel” button, as these can sometimes lead to phishing sites. Instead, click the small “x” in the upper corner of the pop-up.
 
-Source: https://www.csoonline.com/article/2117843/phishing/what-is-phishing-how-this-cyber-attack-works-and-how-to-prevent-it
+Source: [What is Phishing, how this cyber attack works and how to prevent it](https://www.csoonline.com/article/2117843/phishing/what-is-phishing-how-this-cyber-attack-works-and-how-to-prevent-it)
 
 ## Check out our video
 
