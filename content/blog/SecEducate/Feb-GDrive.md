@@ -62,6 +62,3 @@ It is possible to share your file with a distribution list (e.g. customer.servic
 
 Once you have shared a folder with a group, for example as read-only, it is possible to change permissions for individual documents by opening the document, clicking on the **‘Share’** button, the using **‘Who Has Access’** to change individual permissions.
 
-## Watch our video to learn more:
-
-[![](http://img.youtube.com/vi/-8sfWtn4q6M/0.jpg)](http://www.youtube.com/watch?v=-8sfWtn4q6M "How to avoid oversharing on G Drive")
