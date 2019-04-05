@@ -1,7 +1,6 @@
 ---
 
 title   : My week with Photobox Group Security
-banner  : /img/blog/phishing_blog.png
 date    : 2019-04-05
 
 ---
